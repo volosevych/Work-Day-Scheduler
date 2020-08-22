@@ -4,6 +4,14 @@ body {
     font-size: 16px;
 }
 
+.jumbotron {
+  background-color: #283618;
+}
+
+footer {
+  background-color: #dda15e;
+}
+
 textarea{
     background: transparent;
     border: none;
@@ -33,4 +41,19 @@ textarea{
 .saveBtn:hover {
   background-color: #dda15e;
   color: #000000;
+}
+
+.past {
+  background-color: #d3d3d3;
+  color: white;
+}
+
+.present {
+  background-color: #ff6961;
+  color: white;
+}
+
+.future {
+  background-color: #77dd77;
+  color: white;
 }
