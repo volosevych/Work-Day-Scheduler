@@ -1,0 +1,36 @@
+body {
+  font-family: 'Poppins', sans-serif;
+
+    font-size: 16px;
+}
+
+textarea{
+    background: transparent;
+    border: none;
+    resize: none;
+    color: #000000;
+    border-left: 1px solid black;
+    padding: 10px;
+  }
+  
+.hour {
+  border: 1px solid black;
+  padding-top: 20px;
+  background-color: #606c38;
+  color: #fff;
+  font-family: 'Balsamiq Sans', cursive;
+
+  
+  text-transform: uppercase;
+}
+
+.saveBtn {
+  border: 1px solid black;
+  background-color: #bc6c25;
+  color: #fff;
+}
+
+.saveBtn:hover {
+  background-color: #dda15e;
+  color: #000000;
+}
